@@ -1,0 +1,10 @@
+.nav {
+  padding: 1rem;
+  background-color: black;
+}
+.navItem a {
+  text-decoration: none;
+  font-size: 1.4rem;
+  color: white;
+  font-weight: bold;
+}

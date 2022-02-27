@@ -1,0 +1,35 @@
+.warehouseDetails {
+  display: flex;
+  flex-direction: column;
+}
+
+.image {
+  background-image: url('https://images.unsplash.com/photo-1587293852726-70cdb56c2866?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80');
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 40vh;
+  margin-bottom: 0.5rem;
+}
+
+.warehouseHeading {
+  background-color: #0670d3;
+  padding: 0.5rem;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 2.2rem;
+  color: white;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.warehouseInfo {
+  padding: 0.5rem;
+  font-size: 1.6rem;
+  color: #000;
+  
+}
+
+.warehouseInfo p {
+  margin-bottom: 0.5rem;
+}

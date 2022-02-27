@@ -1,0 +1,22 @@
+.filters {
+  display: flex;
+  margin: 2rem 0;
+  gap: 2rem;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.filter {
+  display: flex;
+  align-items: center;
+}
+
+.filter:last-child {
+  flex-direction: column;
+}
+
+.filter select {
+  min-width: 200px;
+  padding: 0.5rem;
+  text-align-last: center;
+}
