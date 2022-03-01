@@ -1,1 +1,3 @@
-This is an application build with CRA template.
+- To install the necessary dependencies, run `npm install` after cloning the repository.
+- To run the dev server locally after cloning and installing the dependencies run `npm start`
+- The dev server will run on port 3000 by default.
